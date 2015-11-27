@@ -15,6 +15,7 @@ gem "font-awesome-rails"
 gem 'simple_form'
 gem 'devise'
 gem 'omniauth-twitter', :github => 'arunagw/omniauth-twitter'
+gem 'omniauth-facebook'
 
 group :development, :test do
   gem 'byebug'
