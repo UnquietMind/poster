@@ -14,6 +14,7 @@ gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootst
 gem "font-awesome-rails"
 gem 'simple_form'
 gem 'devise'
+gem 'omniauth-twitter', :github => 'arunagw/omniauth-twitter'
 
 group :development, :test do
   gem 'byebug'
