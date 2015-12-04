@@ -17,6 +17,8 @@ gem 'devise'
 gem 'omniauth-twitter', :github => 'arunagw/omniauth-twitter'
 gem 'omniauth-facebook'
 gem 'validates_timeliness'
+gem 'momentjs-rails',  :github => 'derekprior/momentjs-rails'
+gem 'datetimepicker-rails', github: 'zpaulovics/datetimepicker-rails', branch: 'master', submodules: true
 
 group :development, :test do
   gem 'byebug'
