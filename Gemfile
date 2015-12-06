@@ -23,6 +23,7 @@ gem 'twitter'
 gem 'koala'
 gem 'delayed_job_active_record'
 gem 'delayed-web'
+gem 'will_paginate'
 
 group :development, :test do
   gem 'byebug'
